@@ -1,0 +1,19 @@
+{
+  "name": "monopoly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VESTN1K/Monopoly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VESTN1K/Monopoly/issues"
+  },
+  "homepage": "https://github.com/VESTN1K/Monopoly#readme"
+}

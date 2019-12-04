@@ -1,0 +1,29 @@
+{
+  "headers": {
+    "host": "localhost:8080",
+    "user-agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "accept-language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+    "accept-encoding": "gzip, deflate",
+    "connection": "keep-alive",
+    "cookie": "jwt=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJhZG1pbkBhZG1pbi5jb20iLCJuYW1lIjoiQWRtaW5pc3RyYXRvciIsInBpY3R1cmVVcmwiOm51bGwsInRpbWV6b25lIjoiQW1lcmljYS9OZXdfWW9yayIsImxvY2FsZUNvZGUiOiJlbiIsImRlZmF1bHRFZGl0b3IiOiJtYXJrZG93biIsInBlcm1pc3Npb25zIjpbIm1hbmFnZTpzeXN0ZW0iXSwiZ3JvdXBzIjpbMV0sImlhdCI6MTU3NDIzOTMyOSwiZXhwIjoxNTc0MjQxMTI5LCJhdWQiOiJ1cm46d2lraS5qcyIsImlzcyI6InVybjp3aWtpLmpzIn0.xQWjHBdlch34L72iXEkQJNR2qsWp3_HFIdwlm4mgZyHpgFxqxXS6wGZeaXlySZFIIYq1gb1McOX3jgp2OADTSrsfc8e_Au4BDY8yJREy14mRhxpT5f7n7Fditqar4P7sBIYcJLe6wW68aOXiuoUn7U1wGjB3Qq10A7GzM3zuPXLSkZ1bSW-77JdvybHruIT3AYouUFahny12TUveD_EZBC_TqEka2SFh1MnW7CNSPk_5WqWpo1ozZnSnWXB8CaTgc18OO3HsXSfVQDEowGoo6clh4PVGWBA0xLfKVR3PTdgct4tAkrJHgetAq6nN6lpFWofqZy1-sXNUcnjupwZf2g",
+    "upgrade-insecure-requests": "1"
+  },
+  "url": {
+    "protocol": null,
+    "slashes": null,
+    "auth": null,
+    "host": null,
+    "port": null,
+    "hostname": null,
+    "hash": null,
+    "search": "?asdfsdf=dfaseswrf",
+    "query": {
+      "asdfsdf": "dfaseswrf"
+    },
+    "pathname": "/weqawdqwd/fdsfsdf",
+    "path": "/weqawdqwd/fdsfsdf?asdfsdf=dfaseswrf",
+    "href": "/weqawdqwd/fdsfsdf?asdfsdf=dfaseswrf"
+  },
+  "method": "GET"
+}
